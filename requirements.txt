@@ -1,0 +1,8 @@
+pasgiref==3.8.1
+Django==5.1.1
+django-livesync==0.5
+sqlparse==0.5.1
+tornado==6.4.1
+tzdata==2024.1
+watchdog==5.0.3
+websocket-client==1.8.0
