@@ -40,7 +40,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Project.urls'
+ROOT_URLCONF = 'Ticoy.urls'
 
 TEMPLATES = [
     {
@@ -58,7 +58,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Project.wsgi.application'
+WSGI_APPLICATION = 'Ticoy.wsgi.application'
 
 
 # Database
